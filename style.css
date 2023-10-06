@@ -1,0 +1,16 @@
+#app {
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+    text-align: center;
+    background-image: url('https://i.pinimg.com/564x/e1/ad/47/e1ad47f6c5c1e11360eb69ccaa69a8d9.jpg'); /* เปลี่ยน URL ให้เป็น URL ของรูปภาพที่คุณต้องการใช้ */
+    background-size: cover; /* ปรับขนาดรูปภาพให้เต็มพื้นหลัง */
+    background-repeat: no-repeat; /* ไม่ต้องทำการทำซ้ำรูปภาพ */
+    /*background-attachment: fixed; /* ให้รูปภาพคงที่ตลอดการเลื่อนหน้าเว็บ */
+    background-color: rgba(0, 0, 0, 0.5); /* สีพื้นหลังสำหรับรูปภาพ */
+  
+  }
